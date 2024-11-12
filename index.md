@@ -19,4 +19,4 @@ UH Jewels is a example web application that allows users to place an order for j
 
 * [React](https://reactjs.org/) 
 * [React Bootstrap](https://react-bootstrap.github.io/) 
-* [NextJS] (https://nextjs.org/)
+* [NextJS](https://nextjs.org/)
