@@ -20,3 +20,7 @@ UH Jewels is a example web application that allows users to place an order for j
 * [React](https://reactjs.org/) 
 * [React Bootstrap](https://react-bootstrap.github.io/) 
 * [NextJS](https://nextjs.org/)
+
+## Team
+
+BowFolios is designed, implemented, and maintained by [Katelyn Sung](https://github.com/katelynsung) ,[Jarren Seson](https://github.com/jarrenseson), and Waltz Tuzon.
