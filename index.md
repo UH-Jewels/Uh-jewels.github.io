@@ -19,6 +19,8 @@ UH Jewels is a web application that allows users to browse and place orders for 
 The goal of Milestone 1 is to create a set of HTML pages providing a mockup of the pages in the system.
 Milestone 1 is managed using [UH Jewels GitHub Project Board M1](https://github.com/orgs/UH-Jewels/projects/2/views/1?layout=board). 
 
+## Team Contract
+
 ## Team
 
 UH Jewels is designed, implemented, and maintained by [Katelyn Sung](https://github.com/katelynsung), [Jarren Seson](https://github.com/jarrenseson), and [Waltz Tuzon](https://github.com/waltz-axl-c-tuzon).
