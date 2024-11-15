@@ -5,4 +5,4 @@ show_downloads: true
 theme: jekyll-theme-cayman
 gems:
   - jekyll-mentions
-github_repository: https://github.com/UH-Jewels/Uh-jewels.github.io
+repository: https://github.com/UH-Jewels/Uh-jewels.github.io
