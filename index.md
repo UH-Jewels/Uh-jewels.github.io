@@ -1,5 +1,5 @@
 # UH Jewels
-<a href="https://github.com/UH-Jewels/Uh-jewels.github.io">View on Github</a>
+<a href="https://github.com/UH-Jewels">View our organization on GitHub</a>
 
 ## Table of Contents
 
