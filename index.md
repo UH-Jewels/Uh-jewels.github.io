@@ -9,7 +9,7 @@
 
 ## Overview
 
-UH Jewels is a web application that allows users to browse and place orders for jewelery displayed on the site. The technologies we will be using include:
+UH Jewels is a web application that allows users to browse and place orders for jewelery displayed on the site. These pieces will be made to order, solving the problem to affordable fashion to UH manoa students. The technologies we will be using include:
 * [React](https://reactjs.org/) 
 * [React Bootstrap](https://react-bootstrap.github.io/) 
 * [NextJS](https://nextjs.org/)
