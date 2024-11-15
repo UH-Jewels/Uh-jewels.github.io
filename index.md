@@ -15,4 +15,4 @@ UH Jewels is a example web application that allows users to place an order for j
 
 ## Team
 
-BowFolios is designed, implemented, and maintained by [Katelyn Sung](https://github.com/katelynsung), [Jarren Seson](https://github.com/jarrenseson), and [Waltz Tuzon](https://github.com/waltz-axl-c-tuzon).
+UH Jewels is designed, implemented, and maintained by [Katelyn Sung](https://github.com/katelynsung), [Jarren Seson](https://github.com/jarrenseson), and [Waltz Tuzon](https://github.com/waltz-axl-c-tuzon).
