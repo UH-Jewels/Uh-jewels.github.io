@@ -9,7 +9,7 @@
 
 ## Overview
 
-UH Jewels is a example web application that allows users to place an order for jewelery displayed on the site. The technologies we will be using include:
+UH Jewels is a web application that allows users to browse and place orders for jewelery displayed on the site. The technologies we will be using include:
 * [React](https://reactjs.org/) 
 * [React Bootstrap](https://react-bootstrap.github.io/) 
 * [NextJS](https://nextjs.org/)
