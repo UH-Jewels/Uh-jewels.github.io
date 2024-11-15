@@ -5,6 +5,7 @@
 
 * [Overview](#overview)
 * [Development](#development)
+* [Team Contract](#team-contract)
 * [Team](#team)
 
 ## Overview
@@ -20,6 +21,7 @@ The goal of Milestone 1 is to create a set of HTML pages providing a mockup of t
 Milestone 1 is managed using [UH Jewels GitHub Project Board M1](https://github.com/orgs/UH-Jewels/projects/2/views/1?layout=board). 
 
 ## Team Contract
+View our team contract [here](https://docs.google.com/document/d/1dADF0u-a7cH049eyQP-dMeUer1EFkaykC__uFOfFstg/edit?tab=t.0).
 
 ## Team
 
