@@ -1,6 +1,7 @@
 # UH Jewels
 <a href="https://github.com/UH-Jewels/Uh-jewels.github.io">View on Github</a>
-## Table of contents
+
+## Table of Contents
 
 * [Overview](#overview)
 * [Team Contract](#team-contract)
