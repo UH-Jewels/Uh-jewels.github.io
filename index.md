@@ -16,11 +16,13 @@ UH Jewels is a web application that allows users to browse and place orders for 
 * [NextJS](https://nextjs.org/)
 
 
-<img width="1710" alt="Screenshot 2024-11-21 at 4 59 07 PM" src="https://github.com/user-attachments/assets/18cfcf42-4103-4b33-aa5d-f84f13256003">
 
 
 ## Home Screen
 Welcome to the UH Jewels Homescreen! 
+
+<img width="1710" alt="Screenshot 2024-11-21 at 4 59 07 PM" src="https://github.com/user-attachments/assets/18cfcf42-4103-4b33-aa5d-f84f13256003">
+
 Click the button on the top left which takes you to our instagram page.
 
 <img width="1431" alt="Screenshot 2024-11-21 at 4 59 31 PM" src="https://github.com/user-attachments/assets/c0b86896-d328-4bcf-b29a-cdbe40f23927">
@@ -28,9 +30,11 @@ Click the button on the top left which takes you to our instagram page.
 In the middle, you can click on the 'Shop Jewels' button which will take you to our products page that showcases our newest collection.
 
 ## Login page
-On the top right corner of the page you can login to your account to keep track of your orders. Just sign in with your email and a password.
 
 <img width="1709" alt="Screenshot 2024-11-21 at 5 00 07 PM" src="https://github.com/user-attachments/assets/ecdaf8c2-e1dd-4db9-aef2-b6914a074f9a">
+
+On the top right corner of the page you can login to your account to keep track of your orders. Just sign in with your email and a password.
+
 
 ## Products Page
 Here you can shop the newest collection pieces, viewing them and their prices.
