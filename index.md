@@ -54,7 +54,7 @@ Enter your shipping information so we can ship your jewels to your door!
 
 
 ## Deployment 
-Click [here](uh-jewels-application-template-fork.vercel.app) to see our Vercel deployment.
+Click [here](https://uh-jewels-application-template-fork.vercel.app) to see our Vercel deployment.
 
 ## Development
 ### Milestone 1: Mockup Development
