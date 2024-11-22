@@ -58,7 +58,7 @@ uh-jewels-application-template-fork.vercel.app
 ## Development
 ### Milestone 1: Mockup Development
 The goal of Milestone 1 is to create a set of HTML pages providing a mockup of the pages in the system.
-Milestone 1 is managed using [UH Jewels GitHub Project Board M1](https://github.com/orgs/UH-Jewels/projects/2/views/1?layout=board). 
+Milestone 1 is managed using [UH Jewels GitHub Project Board M1](https://github.com/orgs/UH-Jewels/projects/2/views/1?filterQuery=). 
 
 ### Milestone 2
 https://github.com/orgs/UH-Jewels/projects/3/views/1
