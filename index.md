@@ -50,7 +50,7 @@ Fill out the provided billing information and your choice of payment method.
 
 ## Shipping Page
 Enter your shipping information so we can ship your jewels to your door!
-![Screenshot 2024-11-21 212803](https://github.com/user-attachments/assets/2dbf164c-13fd-4132-ba42-caccb83858dc)
+![Screenshot 2024-11-21 212803](https://github.com/user-attachments/assets/2dbf164c-13fd-4132-ba42-caccb83858dc).
 
 
 ## Deployment 
