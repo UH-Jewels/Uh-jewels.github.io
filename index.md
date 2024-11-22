@@ -50,6 +50,8 @@ Fill out the provided billing information and your choice of payment method.
 
 ## Shipping Page
 Enter your shipping information so we can ship your jewels to your door!
+![Screenshot 2024-11-21 181038](https://github.com/user-attachments/assets/abf4eb34-80e6-4ffc-b8c8-92d4f05d59be)
+
 
 ## Development
 ### Milestone 1: Mockup Development
