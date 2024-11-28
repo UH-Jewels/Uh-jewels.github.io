@@ -50,7 +50,8 @@ Fill out the provided billing information and your choice of payment method.
 
 ## Shipping Page
 Enter your shipping information so we can ship your jewels to your door!
-![Screenshot 2024-11-21 212803](https://github.com/user-attachments/assets/2dbf164c-13fd-4132-ba42-caccb83858dc).
+![Screenshot 2024-11-27 172043](https://github.com/user-attachments/assets/7b440276-42bc-452a-85cc-3226344970c3)
+
 
 
 ## Deployment 
@@ -63,6 +64,9 @@ Milestone 1 was managed using [UH Jewels GitHub Project Board M1](https://github
 
 ### Milestone 2
 The goal of milestone 2 was to significantly improve the functionality and quality of our application. Milestone 2 was managed using [UH Jewels GitHub Project Board M2](https://github.com/orgs/UH-Jewels/projects/3/views/1)
+
+### Milestone 3
+The goal of milesstone 3 was to signicantly improve the functionality of our system from milestone 2, incorperate a significant amount of "real" data into our system, and implement acceptance testing. Milestone 3 was managed using [UH Jewels GitHub Project Board M3](https://github.com/orgs/UH-Jewels/projects/4)
 
 ## Team Contract
 View our team contract [here](https://docs.google.com/document/d/1dADF0u-a7cH049eyQP-dMeUer1EFkaykC__uFOfFstg/edit?tab=t.0).
