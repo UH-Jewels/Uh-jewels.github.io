@@ -73,6 +73,22 @@ The data inputted will be written into our database.
 
 ## Developer Guide
 This section provides information of interest to developers wishing to use this code base as a basis for their own development tasks. 
+### Installation
+
+Visit the [UH Jewels application github page](https://github.com/UH-Jewels/uh-jewels-application-template), and click the "Use this template" button to create your own repository initialized with a copy of this application. 
+
+Then, d into the uh-jewels-application-template/app directory and install libraries with:
+
+```
+$ npm install
+```
+Third, run the system with:
+```
+$ npm run start
+```
+
+If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
+
 
 ## Deployment 
 Click [here](https://uh-jewels-application-template-fork.vercel.app) to see our Vercel deployment.
