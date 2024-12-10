@@ -52,10 +52,6 @@ Here you can view the pieces that are listed, viewing the prices and styles avai
 
 
 ### Shopping Cart Page
-When you are ready to check out your new jewels, you can click the shopping cart and see what you had added to cart. 
-The Database will be read and the data will be written into the Shopping Cart Page
-
-<img width="1710" alt="Screenshot 2024-12-03 at 3 35 38 PM" src="https://github.com/user-attachments/assets/56149e7a-5326-46e7-9ef3-9afdb7b9b305">
 
 
 Click the 'Proceed To Payment' Button which will take you to the payment page.
