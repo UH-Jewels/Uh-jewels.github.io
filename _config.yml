@@ -1,9 +1,8 @@
-title: UH Jewels
+ytitle: UH Jewels
 description: Market place for shell jewelry
 google_analytics:
 show_downloads: true
-theme: minimal-mistakes-jekyll
-plugins:
+theme: jekyll-theme-cayman
+gem:
   - jekyll-mentions
-  - minimal-mistakes-jekyll
 repository: https://github.com/UH-Jewels/Uh-jewels.github.io
