@@ -55,7 +55,7 @@ Here you can view the pieces that are listed, viewing the prices and styles avai
 
 
 Click the 'Proceed To Payment' Button which will take you to the payment page.
-## Payment Page
+### Payment Page
 <img width="1710" alt="Screenshot 2024-12-03 at 3 28 58 PM" src="https://github.com/user-attachments/assets/332797bb-91a3-446f-bc08-4ba7347b687e">
 
 Complete all the information with your choice of payment. And when finished, click the 'Continue to Shipping Form'
