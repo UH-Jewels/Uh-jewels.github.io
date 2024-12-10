@@ -21,7 +21,7 @@ UH Jewels is a web application that allows users to browse and place orders for 
 
 ## User Guide
 
-## Home Screen
+### Home Screen
 Welcome to the UH Jewels Homescreen! 
 
 <img width="1710" alt="Screenshot 2024-11-21 at 4 59 07 PM" src="https://github.com/user-attachments/assets/18cfcf42-4103-4b33-aa5d-f84f13256003">
@@ -32,14 +32,14 @@ Click the button on the top left which takes you to our instagram page.
 
 When you click the button 'Shop Jewels' it will be prompting the user to login in or make an account. That way all of their information and the products they add will be under the same name in the database. 
 
-## Login page
+### Login page
 
 <img width="1709" alt="Screenshot 2024-11-21 at 5 00 07 PM" src="https://github.com/user-attachments/assets/ecdaf8c2-e1dd-4db9-aef2-b6914a074f9a">
 
 Just sign in or sign up with your email and a password.
 
 
-## Products Page
+### Products Page
 After logging in, it will take you to the Shop Jewels page
 Here you can shop the newest collection pieces, viewing them and their prices.
 When ready to select you can click the button 'Add to Cart'.
@@ -49,7 +49,7 @@ The 'Add To Cart Button' is connected to the DataBase and will write to it.
 <img width="1710" alt="Screenshot 2024-12-03 at 3 40 08 PM" src="https://github.com/user-attachments/assets/c1e54a6f-477c-4d4a-9256-56a09857781c">
 
 
-## Shopping Cart Page
+### Shopping Cart Page
 When you are ready to check out your new jewels, you can click the shopping cart and see what you had added to cart. 
 The Database will be read and the data will be written into the Shopping Cart Page
 
@@ -62,7 +62,7 @@ Click the 'Proceed To Payment' Button which will take you to the payment page.
 
 Complete all the information with your choice of payment. And when finished, click the 'Continue to Shipping Form'
 
-## Shipping Page
+### Shipping Page
 Enter your shipping information so we can ship your jewels to your door!
 ![Screenshot 2024-12-10 110313](https://github.com/user-attachments/assets/d6564542-7cb0-41aa-b7c2-79ee94ea1b3b)
 
