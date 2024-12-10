@@ -32,21 +32,23 @@ Click the button on the top left which takes you to our instagram page.
 
 When you click the button 'Shop Jewels' it will be prompting the user to login in or make an account. That way all of their information and the products they add will be under the same name in the database. 
 
-### Login page
+### Customer Login page
 
-<img width="1709" alt="Screenshot 2024-11-21 at 5 00 07 PM" src="https://github.com/user-attachments/assets/ecdaf8c2-e1dd-4db9-aef2-b6914a074f9a">
+<img width="1697" alt="Screenshot 2024-12-10 at 11 56 08 AM" src="https://github.com/user-attachments/assets/79be1cf6-60b7-47c6-866d-1429b642b3ec">
+
 
 Just sign in or sign up with your email and a password.
 
+After logging in, it will take you to back to the home page with a Shop Jewels tab. As a user you can either shop view the products by clicking the 'Shop Jewels' button or click the tab in the Nav bar. 
+<img width="1706" alt="Screenshot 2024-12-10 at 11 56 25 AM" src="https://github.com/user-attachments/assets/adc78541-be45-46bb-bd03-aabb8aa6ad66">
 
 ### Products Page
-After logging in, it will take you to the Shop Jewels page
-Here you can shop the newest collection pieces, viewing them and their prices.
-When ready to select you can click the button 'Add to Cart'.
-The 'Add To Cart Button' is connected to the DataBase and will write to it.
 
+Here you can view the pieces that are listed, viewing the prices and styles available. WHen ready to place your order click the 'Place order button' which will direct you to the Order form page. 
 
-<img width="1710" alt="Screenshot 2024-12-03 at 3 40 08 PM" src="https://github.com/user-attachments/assets/c1e54a6f-477c-4d4a-9256-56a09857781c">
+<img width="1706" alt="Screenshot 2024-12-10 at 11 57 59 AM" src="https://github.com/user-attachments/assets/1d815dbb-1ce2-4f0a-907c-a603a906aa33">
+
+### Order Form Page
 
 
 ### Shopping Cart Page
@@ -68,6 +70,23 @@ Enter your shipping information so we can ship your jewels to your door!
 
 The data inputted will be written into our database.
 
+### Admin Access
+As an administrator, there is an admin exclusive access.
+Simply login with the admin email account. 
+
+<img width="1704" alt="Screenshot 2024-12-10 at 11 58 49 AM" src="https://github.com/user-attachments/assets/818170fd-aace-4db9-8304-6d32922e2041">
+
+This access redirects you to the home page with a exclusive 'List New Products Tab"
+
+<img width="1705" alt="Screenshot 2024-12-10 at 11 59 15 AM" src="https://github.com/user-attachments/assets/a4a190a0-c38f-4f09-82e7-5d5b5b51a9f9">
+
+<img width="1703" alt="Screenshot 2024-12-10 at 11 59 26 AM" src="https://github.com/user-attachments/assets/f57ef454-4453-416e-a091-405fb38d2d0a">
+
+Simply list a new products to release onto the site!
+
+
+
+
 ## Community Feedback
 
 ## Developer Guide
@@ -76,7 +95,7 @@ This section provides information of interest to developers wishing to use this 
 
 Visit the [UH Jewels application github page](https://github.com/UH-Jewels/uh-jewels-application-template), and click the "Use this template" button to create your own repository initialized with a copy of this application. 
 
-Then, d into the uh-jewels-application-template/app directory and install libraries with:
+Then, cd into the uh-jewels-application-template/app directory and install libraries with:
 
 ```
 $ npm install
