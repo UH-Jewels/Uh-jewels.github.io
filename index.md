@@ -6,6 +6,7 @@
 
 * [Overview](#overview)
 * [User Guide](#user-guide)
+* [Community Feedback](#community-feedback)
 * [Development](#development)
 * [Team Contract](#team-contract)
 * [Team](#team)
@@ -65,10 +66,9 @@ Complete all the information with your choice of payment. And when finished, cli
 Enter your shipping information so we can ship your jewels to your door!
 ![Screenshot 2024-12-10 110313](https://github.com/user-attachments/assets/d6564542-7cb0-41aa-b7c2-79ee94ea1b3b)
 
-
 The data inputted will be written into our database.
 
-
+## Community Feedback
 
 ## Deployment 
 Click [here](https://uh-jewels-application-template-fork.vercel.app) to see our Vercel deployment.
