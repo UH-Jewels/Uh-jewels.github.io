@@ -7,6 +7,7 @@
 * [Overview](#overview)
 * [User Guide](#user-guide)
 * [Community Feedback](#community-feedback)
+* [Developer Guide](#developer-guide)
 * [Development](#development)
 * [Team Contract](#team-contract)
 * [Team](#team)
@@ -69,6 +70,9 @@ Enter your shipping information so we can ship your jewels to your door!
 The data inputted will be written into our database.
 
 ## Community Feedback
+
+## Developer Guide
+This section provides information of interest to developers wishing to use this code base as a basis for their own development tasks. 
 
 ## Deployment 
 Click [here](https://uh-jewels-application-template-fork.vercel.app) to see our Vercel deployment.
