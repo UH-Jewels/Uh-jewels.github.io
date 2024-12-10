@@ -3,6 +3,7 @@ description: Market place for shell jewelry
 google_analytics:
 show_downloads: true
 theme: minimal-mistakes-jekyll
-gems:
+plugins:
   - jekyll-mentions
+  - minimal-mistakes-jekyll
 repository: https://github.com/UH-Jewels/Uh-jewels.github.io
