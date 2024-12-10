@@ -1,5 +1,5 @@
 # UH Jewels [![ci-nextjs-application-template](https://github.com/UH-Jewels/uh-jewels-application-template/actions/workflows/ci.yml/badge.svg)](https://github.com/UH-Jewels/uh-jewels-application-template/actions/workflows/ci.yml)
-<a href="https://github.com/UH-Jewels">View our organization on GitHub</a>\
+<a href="https://github.com/UH-Jewels">View our organization on GitHub</a>
 
 ## Table of Contents
 
