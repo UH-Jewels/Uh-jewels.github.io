@@ -62,7 +62,8 @@ Complete all the information with your choice of payment. And when finished, cli
 
 ## Shipping Page
 Enter your shipping information so we can ship your jewels to your door!
-![Screenshot 2024-11-27 172043](https://github.com/user-attachments/assets/7b440276-42bc-452a-85cc-3226344970c3)
+![Screenshot 2024-12-10 110313](https://github.com/user-attachments/assets/d6564542-7cb0-41aa-b7c2-79ee94ea1b3b)
+
 
 The data inputted will be written into our database.
 
