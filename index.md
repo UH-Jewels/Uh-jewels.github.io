@@ -5,6 +5,7 @@
 ## Table of Contents
 
 * [Overview](#overview)
+* [User Guide](#user-guide)
 * [Development](#development)
 * [Team Contract](#team-contract)
 * [Team](#team)
@@ -17,7 +18,7 @@ UH Jewels is a web application that allows users to browse and place orders for 
 * [NextJS](https://nextjs.org/)
 
 
-
+## User Guide
 
 ## Home Screen
 Welcome to the UH Jewels Homescreen! 
