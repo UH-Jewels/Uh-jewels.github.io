@@ -57,6 +57,7 @@ To select the products that you want to purchase, simply click 'add to cart' on 
 
 <img width="1705" alt="Screenshot 2024-12-15 at 1 15 52 PM" src="https://github.com/user-attachments/assets/2d984211-01c0-4363-9bbf-2109bcf41f79" />
 The shopping cart page which can be accessed through the Navbar cart logo or the 'proceed to cart' button will show you to your updated cart and its total.
+Users are also able to edit their cart by removing or adding the quanitity. 
 
 
 Click the 'Proceed To Payment' Button which will take you to the payment page.
@@ -78,20 +79,24 @@ As an administrator, there is an admin exclusive access.
 Simply login with the admin email account. 
 
 <img width="1704" alt="Screenshot 2024-12-10 at 11 58 49 AM" src="https://github.com/user-attachments/assets/818170fd-aace-4db9-8304-6d32922e2041">
+<img width="1707" alt="Screenshot 2024-12-15 at 1 24 15 PM" src="https://github.com/user-attachments/assets/a380dfcc-e414-47a2-9374-f46eb7f23b57" />
 
 This access redirects you to the home page with a exclusive 'List New Products Tab"
 
-<img width="1705" alt="Screenshot 2024-12-10 at 11 59 15 AM" src="https://github.com/user-attachments/assets/a4a190a0-c38f-4f09-82e7-5d5b5b51a9f9">
-
-<img width="1703" alt="Screenshot 2024-12-10 at 11 59 26 AM" src="https://github.com/user-attachments/assets/f57ef454-4453-416e-a091-405fb38d2d0a">
 
 Simply list a new products to release onto the site!
+<img width="1703" alt="Screenshot 2024-12-15 at 1 26 50 PM" src="https://github.com/user-attachments/assets/30b1a158-bf5a-4853-80dd-2c55cc457d58" />
+
+The newly listed product will immediately be listed and update on the 'Shop Jewels' page for the public.
+<img width="1710" alt="Screenshot 2024-12-15 at 1 27 09 PM" src="https://github.com/user-attachments/assets/c1d3e09a-1008-4969-b43e-ff2523d81965" />
+<img width="1710" alt="Screenshot 2024-12-15 at 1 27 21 PM" src="https://github.com/user-attachments/assets/7292c2bb-bbac-4d45-b2ee-8d81c63b2e0f" />
 
 
-
+# The new product is updated to the public as a customer is logged into their account
+<img width="1710" alt="Screenshot 2024-12-15 at 1 29 31 PM" src="https://github.com/user-attachments/assets/1700ba1d-ca58-45bb-90cb-c53831744cf0" />
 
 ## Community Feedback
-
+After getting responses from the UH community, many were excited and showed high interest in the products. The visualization and the design of the website was complimented to be trendy to the young adult audience. One suggestion that a few mentioned were not being used to having a button keep taking them to the next page in order. While this was made to make the shopping experience easier, a few people said they like the old style of just having different logos that would take them to other pages. We did implement the usage of both. Another suggested the usage of videos and more images of the products to be incorporated. Such as the usage of 'models' and how the pieces were styled. Majority of the suggestions were more about the products and commercializing rather than the actual design of the webiste. Overall, majority enjoyed and thought the webiste was self explanatory. 
 ## Developer Guide
 This section provides information of interest to developers wishing to use this code base as a basis for their own development tasks. 
 ### Installation
