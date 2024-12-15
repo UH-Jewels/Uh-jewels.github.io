@@ -24,7 +24,8 @@ UH Jewels is a web application that allows users to browse and place orders for 
 ### Home Screen
 Welcome to the UH Jewels Homescreen! 
 
-<img width="1710" alt="Screenshot 2024-11-21 at 4 59 07 PM" src="https://github.com/user-attachments/assets/18cfcf42-4103-4b33-aa5d-f84f13256003">
+<img width="1706" alt="Screenshot 2024-12-15 at 1 11 25 PM" src="https://github.com/user-attachments/assets/ecc75a43-21b9-422b-8e06-980e5fd55107" />
+
 
 Click the button on the top left which takes you to our instagram page.
 
@@ -34,37 +35,43 @@ When you click the button 'Shop Jewels' it will be prompting the user to login i
 
 ### Customer Login page
 
-<img width="1697" alt="Screenshot 2024-12-10 at 11 56 08 AM" src="https://github.com/user-attachments/assets/79be1cf6-60b7-47c6-866d-1429b642b3ec">
+<img width="1708" alt="Screenshot 2024-12-15 at 1 12 25 PM" src="https://github.com/user-attachments/assets/53cdccdd-1f47-49b4-b341-de9b84a5b6a0" />
 
 
-Just sign in or sign up with your email and a password.
+Just sign in create an account with your email and a password.
 
-After logging in, it will take you to back to the home page with a Shop Jewels tab. As a user you can either shop view the products by clicking the 'Shop Jewels' button or click the tab in the Nav bar. 
-<img width="1706" alt="Screenshot 2024-12-10 at 11 56 25 AM" src="https://github.com/user-attachments/assets/adc78541-be45-46bb-bd03-aabb8aa6ad66">
+After logging in, it will take you to back to the home page with a Shop Jewels tab. As a user you can either view the products by clicking the 'Shop Jewels' button or click the tab in the Nav bar. 
+<img width="1710" alt="Screenshot 2024-12-15 at 1 13 55 PM" src="https://github.com/user-attachments/assets/e1c89bcf-9002-4eb2-9766-7d592b89c8cd" />
+
 
 ### Products Page
 
-Here you can view the pieces that are listed, viewing the prices and styles available. WHen ready to place your order click the 'Place order button' which will direct you to the Order form page. 
+Here you can view the pieces that are listed, viewing the prices and styles available. When ready to place your order click the 'Place order button' which will direct you to the Order form page. 
+<img width="1704" alt="Screenshot 2024-12-15 at 1 15 03 PM" src="https://github.com/user-attachments/assets/1925c40b-2033-4b79-a603-0ff4a49af2e0" />
 
-<img width="1706" alt="Screenshot 2024-12-10 at 11 57 59 AM" src="https://github.com/user-attachments/assets/1d815dbb-1ce2-4f0a-907c-a603a906aa33">
 
-### Order Form Page
-
+### Add To Cart
+To select the products that you want to purchase, simply click 'add to cart' on the products that you want and it'll update your shopping cart.
 
 ### Shopping Cart Page
+
+<img width="1705" alt="Screenshot 2024-12-15 at 1 15 52 PM" src="https://github.com/user-attachments/assets/2d984211-01c0-4363-9bbf-2109bcf41f79" />
+The shopping cart page which can be accessed through the Navbar cart logo or the 'proceed to cart' button will show you to your updated cart and its total.
 
 
 Click the 'Proceed To Payment' Button which will take you to the payment page.
 ### Payment Page
-<img width="1710" alt="Screenshot 2024-12-03 at 3 28 58 PM" src="https://github.com/user-attachments/assets/332797bb-91a3-446f-bc08-4ba7347b687e">
+<img width="1705" alt="Screenshot 2024-12-15 at 1 18 56 PM" src="https://github.com/user-attachments/assets/5e08bcb2-4218-4094-b2bb-34aeafc06040" />
+
 
 Complete all the information with your choice of payment. And when finished, click the 'Continue to Shipping Form'
 
 ### Shipping Page
 Enter your shipping information so we can ship your jewels to your door!
-![Screenshot 2024-12-10 110313](https://github.com/user-attachments/assets/d6564542-7cb0-41aa-b7c2-79ee94ea1b3b)
 
-The data inputted will be written into our database.
+<img width="1706" alt="Screenshot 2024-12-15 at 1 21 40 PM" src="https://github.com/user-attachments/assets/79a47a03-d92c-42aa-a6ab-a262b1b2aa2f" />
+
+The data inputted will be written into our database. And your order will be submitted!
 
 ### Admin Access
 As an administrator, there is an admin exclusive access.
