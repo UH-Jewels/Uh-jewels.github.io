@@ -46,7 +46,7 @@ After logging in, it will take you to back to the home page with a Shop Jewels t
 
 ### Products Page
 
-Here you can view the pieces that are listed, viewing the prices and styles available. When ready to place your order click the 'Place order button' which will direct you to the Order form page. 
+Here you can view the pieces that are listed, viewing the prices and styles available. 
 <img width="1704" alt="Screenshot 2024-12-15 at 1 15 03 PM" src="https://github.com/user-attachments/assets/1925c40b-2033-4b79-a603-0ff4a49af2e0" />
 
 
@@ -62,7 +62,7 @@ Click the 'Proceed To Payment' Button which will take you to the payment page.
 
 ### Edit Cart Items Page
 ![Screenshot 2024-12-15 161149](https://github.com/user-attachments/assets/ad60f0c8-2811-4caf-a799-53ae6f37e96d)
-This page allows you to edit the quantity of a product
+This page allows you to edit the quantity of a product.
 
 ### Payment Page
 <img width="1705" alt="Screenshot 2024-12-15 at 1 18 56 PM" src="https://github.com/user-attachments/assets/5e08bcb2-4218-4094-b2bb-34aeafc06040" />
@@ -75,7 +75,7 @@ Enter your shipping information so we can ship your jewels to your door!
 
 <img width="1706" alt="Screenshot 2024-12-15 at 1 21 40 PM" src="https://github.com/user-attachments/assets/79a47a03-d92c-42aa-a6ab-a262b1b2aa2f" />
 
-The data inputted will be written into our database. And your order will be submitted!
+The data inputted will be written into our database and your order will be submitted!
 
 ### Admin Access
 As an administrator, there is an admin exclusive access.
