@@ -58,13 +58,12 @@ To select the products that you want to purchase, simply click 'add to cart' on 
 <img width="1705" alt="Screenshot 2024-12-15 at 1 15 52 PM" src="https://github.com/user-attachments/assets/2d984211-01c0-4363-9bbf-2109bcf41f79" />
 The shopping cart page which can be accessed through the Navbar cart logo or the 'proceed to cart' button will show you to your updated cart and its total.
 Users are also able to edit their cart by removing or adding the quanitity. 
+Click the 'Proceed To Payment' Button which will take you to the payment page.
 
 ### Edit Cart Items Page
 ![Screenshot 2024-12-15 161149](https://github.com/user-attachments/assets/ad60f0c8-2811-4caf-a799-53ae6f37e96d)
 This page allows you to edit the quantity of a product
 
-
-Click the 'Proceed To Payment' Button which will take you to the payment page.
 ### Payment Page
 <img width="1705" alt="Screenshot 2024-12-15 at 1 18 56 PM" src="https://github.com/user-attachments/assets/5e08bcb2-4218-4094-b2bb-34aeafc06040" />
 
