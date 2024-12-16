@@ -95,7 +95,7 @@ The newly listed product will immediately be listed and update on the 'Shop Jewe
 <img width="1710" alt="Screenshot 2024-12-15 at 1 27 21 PM" src="https://github.com/user-attachments/assets/7292c2bb-bbac-4d45-b2ee-8d81c63b2e0f" />
 
 
-# The new product is updated to the public as a customer is logged into their account
+### The new product is updated to the public as a customer is logged into their account
 <img width="1710" alt="Screenshot 2024-12-15 at 1 29 31 PM" src="https://github.com/user-attachments/assets/1700ba1d-ca58-45bb-90cb-c53831744cf0" />
 
 ## Community Feedback
