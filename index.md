@@ -27,11 +27,11 @@ Welcome to the UH Jewels Homescreen!
 <img width="1706" alt="Screenshot 2024-12-15 at 1 11 25 PM" src="https://github.com/user-attachments/assets/ecc75a43-21b9-422b-8e06-980e5fd55107" />
 
 
-Click the button on the top left which takes you to our instagram page.
+When you click the button 'Shop Jewels' it will be prompting the user to login in or make an account. That way all of their information and the products they add will be under the same name in the database. 
+### Instagram
+When logged in, users can click the button on the top left which takes you to our instagram page.
 
 <img width="1431" alt="Screenshot 2024-11-21 at 4 59 31 PM" src="https://github.com/user-attachments/assets/c0b86896-d328-4bcf-b29a-cdbe40f23927">
-
-When you click the button 'Shop Jewels' it will be prompting the user to login in or make an account. That way all of their information and the products they add will be under the same name in the database. 
 
 ### Customer Login page
 
